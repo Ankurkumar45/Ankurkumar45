@@ -40,16 +40,25 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="firebase" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="firebase" width="70" height="40"/>
   </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="git" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="express" width="70" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="tailwind" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="tailwind" width="60" height="50"/>
   </a>
+  </a>
+  </p>
+
+  <h3 aligh="left">Databases:</h3>
+  <p aligh="left">
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="mysql" width="40" height="40"/>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/en/5/5a/MongoDB_Fores-Green.svg" alt="mongodb" width="50" height="70"/>
   </a>
   </p>
