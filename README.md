@@ -16,7 +16,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <h3 align="left">Languages:</h3>
 <p align="left">
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"     rel="noreferrer">
+  <a href="https://upload.wikimedia.org/wikipedia/commons/archive/3/35/20190417225046%21The_C_Programming_Language_logo.svg" target="_blank"     rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" alt="C" width="35" height="40"/> 
   </a> 
 </a> 
@@ -31,8 +31,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </a>
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
   <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="40" height="40"/>
-</a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://icons-for-free.com/download-icon-development+logo+mysql+icon-1320184807686758112_512.png" alt="tailwind" width="40" height="40"/>
 </a>
 </p>
 
