@@ -2,11 +2,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ======================================================================================================================================
 <h4>A Full-Stack developer | MERN Stack</h4>
 
-- 🔭 I’m a final year B.Tech student department of Computer Science and Engineering.
-- 🌱 I’m Interested to work on Web 3.0
+- 🔭 CSE'25 graduate.
+- 🌱 Looking for Internships or job opportunities.
 - 💬 Ask me about Technology
 - 📫 How to reach me: ankurdw806@gmail.com || ankurkumardwivedi779@gmail.com
-- ⚡ Fun fact: I'm currently studying B. Tech Computer Science and Engineering
+- ⚡ Fun fact: Wondering between <> & </>.
 
 <a href="https://www.github.com/Ankurkumar45" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/Ankurkumar45?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
