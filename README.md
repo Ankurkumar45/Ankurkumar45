@@ -65,7 +65,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="60" height="60"/>
   </a>
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Logo.svg" alt="intellij" width="60" height="60"/>
+    <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ced775da-ddef-41b7-bbc3-e870172021aa.png?w=80&h=80&fit=max&dpr=3&auto=format&q=50" alt="intellij" width="60" height="60"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="git" width="60" height="60"/>
