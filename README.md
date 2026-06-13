@@ -24,7 +24,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/> 
 </a> 
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-  <img src="/etc.clientlibs/pluralsight/clientlibs/clientlib-main/resources/images/js-logo.png" alt="javascript" width="40" height="40"/>
+  <img src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-0.png" alt="javascript" width="40" height="40"/>
 </a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/>
