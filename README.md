@@ -11,8 +11,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://www.github.com/Ankurkumar45" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/Ankurkumar45?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
-<p align="left"> 
-  <img src="https://www.linkedin.com/in/ankur-dwivedi-264209231/ & label=Profile%20views & color=0e75b6 & style=flat" alt="Ankurkumar45" /> </p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ankur-dwivedi-264209231/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0e75b6?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile" />
+</a>
+</p>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
